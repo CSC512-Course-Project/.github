@@ -10,4 +10,4 @@
 #### Part 2 dev - https://github.com/CSC512-Course-Project/part-2-dev
 ### Part 2 sub - https://github.com/CSC512-Course-Project/part-2-sub
 #### Part 3 dev - https://github.com/CSC512-Course-Project/part-3-dev
-### Part 3 sub - 
+### Part 3 sub - https://github.com/CSC512-Course-Project/part-3-sub
